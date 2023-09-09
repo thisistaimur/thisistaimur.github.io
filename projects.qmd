@@ -4,9 +4,6 @@ format: html
 
 # Project Highlights
 
-![](images/treecrowns-2.png)
-
-
 ```{=html}
 <div class="card bg-light">
   <div class="card-body">
