@@ -1,43 +1,101 @@
 ---
-title: "Projects"
 format: html
 ---
+
+# Project Highlights
 
 ```{=html}
 <div class="card bg-light">
   <div class="card-body">
-    <h4 class="card-title">BioDT</h4>
+    <h2 class="card-title">BioDT</h2>
     <h6 class="card-text">Biodiversity Digital Twin for Advanced Modelling, Simulation and Prediction Capabilities</h6>
     <h6 class="card-subtitle mb-2 text-muted">2022-present @ Helmholtz-UFZ</h6>
-     <h6 class="card-subtitle mb-2 text-muted">Funded by Horizon Europe</h6>
     <a href="https://biodt.eu" class="card-link">Website</a>
-    <a href="#" class="card-link">Github</a>
+    <a href="https://github.com/BioDT" class="card-link">Code</a>
   </div>
 </div>
 <br/>
 
 <div class="card bg-light">
   <div class="card-body">
-    <h4 class="card-title">Adsata</h4>
+    <h2 class="card-title">Adsata</h2>
     <h6 class="card-text">Edge Machine Learning based webcam eyetracking. Create studies to explore visual interaction.</h6>
     <h6 class="card-subtitle mb-2 text-muted">2019-present @ Adsata</h6>
-         <h6 class="card-subtitle mb-2 text-muted">Startup, seed funded by Investment Bank Sachsen-Anhalt</h6>
     <a href="https://adsata.com" class="card-link">Website</a>
-    <a href="#" class="card-link">Github</a>
+    <a href="https://github.com/Adsata" class="card-link">Code</a>
   </div>
 </div>
 <br/>
 
 <div class="card bg-light">
   <div class="card-body">
-    <h4 class="card-title">EICAA</h4>
+    <h2 class="card-title">EICAA Digital Platform</h2>
     <h6 class="card-text">Entrepreneurship and Intrapreneurship Competence Assessment alliance </h6>
-    <h6 class="card-subtitle mb-2 text-muted">2019-present @ Adsata</h6>
-    <a href="https://adsata.com" class="card-link">Website</a>
-    <a href="#" class="card-link">Github</a>
+    <h6 class="card-subtitle mb-2 text-muted">2020-2023 @ Adsata</h6>
+    <a href="https://platform.eicaa.eu" class="card-link">Website</a>
+    <a href="https://github.com/EICAA" class="card-link">Code</a>
   </div>
 </div>
 <br/>
+
+<div class="card bg-light">
+  <div class="card-body">
+    <h2 class="card-title">Halle Treecrowns</h2>
+    <h6 class="card-text">Deep Learning based tree crown detection for city of Halle</h6>
+    <h6 class="card-subtitle mb-2 text-muted">2023 @ Helmholtz-UFZ</h6>
+    <a href="https://halletrees.de" class="card-link">Website</a>
+      <a href="https://git.ufz.de/khant/halle-treecrowns" class="card-link">Code</a>
+  </div>
+</div>
+<br/>
+
+<div class="card bg-light">
+  <div class="card-body">
+    <h2 class="card-title">Metalabel 📚</h2>
+    <h6 class="card-text">Semantic labelling tool for column headers in CSV and Excel files </h6>
+    <h6 class="card-subtitle mb-2 text-muted">2022 @ Helmholtz-UFZ</h6>
+    <a href="https://khant.pages.ufz.de/metalabel/" class="card-link">Website</a>
+    <a href="https://git.ufz.de/khant/metalabel" class="card-link">Code</a>
+  </div>
+</div>
+<br/>
+
+
+<div class="card bg-light">
+  <div class="card-body">
+    <h2 class="card-title">TDG Website and Nextcloud</h2>
+    <h6 class="card-text">Translationsregion für digitale Gesundheitsversorgung</h6>
+    <h6 class="card-subtitle mb-2 text-muted">2020-2022 @ Adsata</h6>
+    <a href="https://platform.eicaa.eu" class="card-link">Website</a>
+  </div>
+</div>
+<br/>
+
+<div class="card bg-light">
+  <div class="card-body">
+    <h2 class="card-title">ISGEE</h2>
+    <h6 class="card-text">Implementing Serious Games in Entrepreneurship Education </h6>
+    <h6 class="card-subtitle mb-2 text-muted">2019-present @ Univations</h6>
+    <a href="https://platform.eicaa.eu" class="card-link">Website</a>
+  </div>
+</div>
+<br/>
+
+
+
+<div class="card bg-light">
+  <div class="card-body">
+    <h2 class="card-title">Matrix in Urdu</h2>
+    <h6 class="card-text">Visual project for simulating the "Matrix rain" in urdu nastaliq characters</h6>
+    <h6 class="card-subtitle mb-2 text-muted">2021 @ Personal</h6>
+    <a href="https://thematrixinurdu.herokuapp.com" class="card-link">Website</a>
+    <a href="https://github.com/thisistaimur/MatixRainInUrdu_p5" class="card-link">Code</a>
+    
+
+  </div>
+</div>
+<br/>
+
 
 ```
 

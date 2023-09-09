@@ -1,5 +1,5 @@
 ---
-title: "Salam! 🖖🏽"
+title: "Hej! 👋🏼"
 ---
 
 Welcome to my webpage. Here, I bridge the realms of earth sciences, numerical modeling, backend technologies, web computation, and data science.
@@ -49,6 +49,8 @@ Welcome to my webpage. Here, I bridge the realms of earth sciences, numerical mo
 
 
 - [“Schau mir in die Augen”](https://www.investieren-in-sachsen-anhalt.de/report-invest/schau-mir-in-die-augen) - Investitions- und Marketinggesellschaft Sachsen-Anhalt, 28.07.2021
+
+- Podcast: [”Finding My Community: Immigration and Tech” with Taimur Khan of Adsata | Educative Sessions](https://educativesessions.podbean.com/e/30-finding-my-community-immigration-and-tech-with-taimur-khan-of-adsata-educative-sessions/)
 
 
 
