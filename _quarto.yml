@@ -1,6 +1,9 @@
 project:
   type: website
 
+resources:
+  - CNAME
+
 website:
   title: "Taimur Khan"
   open-graph: true
@@ -24,6 +27,7 @@ format:
   html:
     theme: 
       light: morph
+      dark: darkly
     css: styles.css
     toc: true
 
