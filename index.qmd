@@ -1,0 +1,47 @@
+---
+title: "Salam! 🖖🏽"
+---
+
+Welcome to my webpage, where I bridge the realms of earth sciences, numerical modeling, backend technologies, web computation, and data science.
+
+ <a href="https://www.linkedin.com/in/taimur-h-khan/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+ 
+  <a href="https://github.com/thisistaimur">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" />
+  </a>
+
+## About Me
+
+🌎 **Academic Background:** Geosciences and Physics (Undergraduate), Earth System Data Science and Remote Sensing (Graduate)
+
+🔬 **Research Enthusiast:** Unraveling Earth's secrets through numerical and statistical models
+
+💻 **Backend Devotee:** Crafting robust and efficient systems
+
+🌐 **Web Wizard:** Translating complex computations into user-friendly interfaces
+
+📊 **Data Whisperer:** Transforming raw data into meaningful stories
+
+👨🏻‍🏫 **Knowledge Sharer:** Giving workshops and courses on cool methods
+
+## What's Cookin'
+
+📚 Currently delving into the depths of numerical and statistical modeling techniques to simulate Earth's dynamic processes via Digital Twins.
+
+🔧 Building sophisticated backend systems that power cutting-edge scientific applications ranging from ML/AI pipelines to dynamic Digital Twin wokflows.
+
+🧮 Modeling complex systems using advances in science, statistics, and techonolgies.
+
+🌐 Creating interactive web experiences that bring computational sense to the masses.
+
+📈 Taming complex datasets to reveal patterns, trends, and insights that inspire change.
+
+## Let's Collaborate!
+
+🌱 Open to collaborations on exciting projects at the intersection of earth systems, physics, and technology.
+
+💬 Hit the mail button in the menu and feel free to reach out for discussions, brainstorming, or simply a virtual chat.
+
+ 

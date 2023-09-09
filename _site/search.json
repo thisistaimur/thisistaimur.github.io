@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Salam! 🖖🏽",
+    "section": "",
+    "text": "Welcome to my webpage, where I bridge the realms of earth sciences, numerical modeling, backend technologies, web computation, and data science."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "List of my projects"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Salam! 🖖🏽",
+    "section": "About Me",
+    "text": "About Me\n🌎 Academic Background: Geosciences and Physics (Undergraduate), Earth System Data Science and Remote Sensing (Graduate)\n🔬 Research Enthusiast: Unraveling Earth’s secrets through numerical and statistical models\n💻 Backend Devotee: Crafting robust and efficient systems\n🌐 Web Wizard: Translating complex computations into user-friendly interfaces\n📊 Data Whisperer: Transforming raw data into meaningful stories\n👨🏻‍🏫 Knowledge Sharer: Giving workshops and courses on cool methods"
+  },
+  {
+    "objectID": "index.html#whats-cookin",
+    "href": "index.html#whats-cookin",
+    "title": "Salam! 🖖🏽",
+    "section": "What’s Cookin’",
+    "text": "What’s Cookin’\n📚 Currently delving into the depths of numerical and statistical modeling techniques to simulate Earth’s dynamic processes via Digital Twins.\n🔧 Building sophisticated backend systems that power cutting-edge scientific applications ranging from ML/AI pipelines to dynamic Digital Twin wokflows.\n🧮 Modeling complex systems using advances in science, statistics, and techonolgies.\n🌐 Creating interactive web experiences that bring computational sense to the masses.\n📈 Taming complex datasets to reveal patterns, trends, and insights that inspire change."
+  },
+  {
+    "objectID": "index.html#lets-collaborate",
+    "href": "index.html#lets-collaborate",
+    "title": "Salam! 🖖🏽",
+    "section": "Let’s Collaborate!",
+    "text": "Let’s Collaborate!\n🌱 Open to collaborations on exciting projects at the intersection of earth systems, physics, and technology.\n💬 Hit the mail button in the menu and feel free to reach out for discussions, brainstorming, or simply a virtual chat."
+  }
+]
