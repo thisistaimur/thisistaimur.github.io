@@ -36,7 +36,7 @@ Welcome to my webpage. Here, I bridge the realms of earth sciences, numerical mo
 
 🔧 Building sophisticated backend systems that power cutting-edge scientific applications ranging from ML/AI pipelines to dynamic Digital Twin wokflows.
 
-🧮 Modeling complex systems using advances in science, statistics, and techonolgies.
+🧮 Modeling complex systems using advances in science, statistics, and digital technologies.
 
 🌐 Creating interactive web experiences that bring computational sense to the masses.
 
