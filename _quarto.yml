@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Taimur Khan"
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
@@ -16,6 +17,8 @@ website:
     right:
       - href: "mailto:thisistaimur@icloud.com"
         text: 📮
+  body-footer: | 
+    © Taimur Khan.
 
 format:
   html:
