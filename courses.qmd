@@ -4,13 +4,15 @@ format: html
 
 # Past Teaching Activities
 
+![](images/approach.png)
+
 ```{=html}
 <div class="card bg-light">
   <div class="card-body">
     <h2 class="card-title">Workshop: Designing Data-Driven Digtal Twin Systems in Ecology</h2>
     <h6 class="card-subtitle mb-2 text-muted">09.2023 @ European Conference on Ecological Modelling 2023 </h6>
     <hr/>
-    <a href="https://biodt.eu" class="card-link">Website</a>
+    <a href="https://biodt.github.io/dddas4dt/" class="card-link">Website</a>
   </div>
 </div>
 <br/>

@@ -1,6 +1,6 @@
----
-title: "Hej! 👋🏼"
----
+# Hej! 👋🏼
+
+<img class="cover" src="images/taimur.jpeg" />
 
 Welcome to my webpage. Here, I bridge the realms of earth sciences, numerical modeling, backend technologies, web computation, and data science.
 
