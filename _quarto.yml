@@ -12,7 +12,7 @@ website:
         text: Teaching
     right:
       - href: "mailto:thisistaimur@icloud.com"
-        text: ✉️
+        text: 📮
 
 format:
   html:

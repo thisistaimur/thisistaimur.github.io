@@ -1,5 +1,43 @@
 ---
 title: "Projects"
+format: html
 ---
 
-List of my projects
+```{=html}
+<div class="card bg-light">
+  <div class="card-body">
+    <h4 class="card-title">BioDT</h4>
+    <h6 class="card-text">Biodiversity Digital Twin for Advanced Modelling, Simulation and Prediction Capabilities</h6>
+    <h6 class="card-subtitle mb-2 text-muted">2022-present @ Helmholtz-UFZ</h6>
+     <h6 class="card-subtitle mb-2 text-muted">Funded by Horizon Europe</h6>
+    <a href="https://biodt.eu" class="card-link">Website</a>
+    <a href="#" class="card-link">Github</a>
+  </div>
+</div>
+<br/>
+
+<div class="card bg-light">
+  <div class="card-body">
+    <h4 class="card-title">Adsata</h4>
+    <h6 class="card-text">Edge Machine Learning based webcam eyetracking. Create studies to explore visual interaction.</h6>
+    <h6 class="card-subtitle mb-2 text-muted">2019-present @ Adsata</h6>
+         <h6 class="card-subtitle mb-2 text-muted">Startup, seed funded by Investment Bank Sachsen-Anhalt</h6>
+    <a href="https://adsata.com" class="card-link">Website</a>
+    <a href="#" class="card-link">Github</a>
+  </div>
+</div>
+<br/>
+
+<div class="card bg-light">
+  <div class="card-body">
+    <h4 class="card-title">EICAA</h4>
+    <h6 class="card-text">Entrepreneurship and Intrapreneurship Competence Assessment alliance </h6>
+    <h6 class="card-subtitle mb-2 text-muted">2019-present @ Adsata</h6>
+    <a href="https://adsata.com" class="card-link">Website</a>
+    <a href="#" class="card-link">Github</a>
+  </div>
+</div>
+<br/>
+
+```
+

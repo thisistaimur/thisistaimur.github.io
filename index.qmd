@@ -2,7 +2,7 @@
 title: "Salam! 🖖🏽"
 ---
 
-Welcome to my webpage, where I bridge the realms of earth sciences, numerical modeling, backend technologies, web computation, and data science.
+Welcome to my webpage. Here, I bridge the realms of earth sciences, numerical modeling, backend technologies, web computation, and data science.
 
  <a href="https://www.linkedin.com/in/taimur-h-khan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -37,6 +37,20 @@ Welcome to my webpage, where I bridge the realms of earth sciences, numerical mo
 🌐 Creating interactive web experiences that bring computational sense to the masses.
 
 📈 Taming complex datasets to reveal patterns, trends, and insights that inspire change.
+
+## In the news
+
+- ["Die 'Blickfänger' von der Saale](https://issuu.com/aspekt-magazin/docs/aspekt_09_2021_es/s/13541949), Aspekt Magazin, 15.09.2021
+  
+- [“Eyetracking für bessere Datenanalyse: Hallesches Startup in den Startlöchern”](https://www.mz.de/lokal/halle-saale/eyetracking-fur-bessere-datenanalyse-hallesches-startup-in-den-startlochern-1708417) - Mitteldeutsche Zeitung, 19.08.2021
+
+
+- [“Eyetracking per Webcam: Adsata hat Erfolg im Blick”](https://startup-mitteldeutschland.de/adsata-eyetracking-per-webcam/)-  Startup-Mitteldeutschland, 16.02.2021
+
+
+- [“Schau mir in die Augen”](https://www.investieren-in-sachsen-anhalt.de/report-invest/schau-mir-in-die-augen) - Investitions- und Marketinggesellschaft Sachsen-Anhalt, 28.07.2021
+
+
 
 ## Let's Collaborate!
 
