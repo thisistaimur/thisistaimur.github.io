@@ -1,12 +1,11 @@
 project:
   type: website
 
-resources:
-  - CNAME
-
 website:
   title: "Taimur Khan"
   open-graph: true
+  resources:
+  - CNAME
   navbar:
     left:
       - href: index.qmd
@@ -20,6 +19,7 @@ website:
     right:
       - href: "mailto:thisistaimur@icloud.com"
         text: 📮
+
   body-footer: | 
     © Taimur Khan.
 
