@@ -1,7 +1,0 @@
-# References
-
-- Khan, T. (2023). Designing Data Drive Digital Twin Systems. Workshop 9: European Conference on Ecological Modeling 2023. DOI: https://doi.org/10.5281/zenodo.8313904
-- Khan, T. (2017). DC Resistivity: Estimating pore moisture distribution and mapping permafrost content in Kaunertal, Austria. Department of Geosciences. Skidmore College.
-- Khan, T., Banitz, T., Golivets, M., Grimm, V., Groeneveld, J., Kühn, I., Taubert, F. (2022). Prototyping a Biodiversity Digital Twin. Helmholtz-UFZ Science Days 2022. DOI: https://doi.org/10.5281/zenodo.8079131
-- Morche, D., Baewert, H., Schuchardt, A., Faust, M., Weber, M., & Khan, T. (2019). Fluvial sediment transport in the proglacial Fagge river, Kaunertal, Austria. Geomorphology of Proglacial Systems (pp. 219-229). Springer, Cham.
-- Schreiber, D.(Gutachter: Hinneburg A. & Khan, T). (2021). Klassifizierung von okulomotorischen Ereignissen (Fixierungen und Sakkaden) in webcam-basierten Eye-Tracking. Bachelor Arbeit. Institut für Informatik, Martin-Luther-University.
