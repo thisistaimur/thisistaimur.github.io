@@ -1,9 +1,9 @@
 project:
   type: website
-  resources: images/
+  resources: 
+    - images/
+    - CNAME
 
-resources:
-  - CNAME
 website:
   title: "Taimur Khan"
   open-graph: true
