@@ -1,8 +1,7 @@
 ---
 format: html
 ---
-
-# Hej! 👋🏼
+# Hej! 👋🏼 
 
 <img class="cover" src="images/taimur.jpeg" />
 
@@ -18,17 +17,17 @@ Welcome to my webpage. Here, I bridge the realms of earth sciences, numerical mo
 
 ## About Me
 
-🌎 **Academic Background:** Geosciences and Physics (Undergraduate), Earth System Data Science and Remote Sensing (Graduate)
+🌎 **Academic Background:** Geosciences and Physics (Undergraduate), Earth System Data Science and Remote Sensing (Graduate, ongoing).
 
-🔬 **Research Enthusiast:** Unraveling Earth's secrets through numerical and statistical models
+🔬 **Research Enthusiast:** Unraveling Earth's secrets through numerical and statistical models.
 
-💻 **Backend Devotee:** Crafting robust and efficient systems
+💻 **Backend Devotee:** Crafting robust and efficient systems.
 
-🌐 **Web Wizard:** Translating complex computations into user-friendly interfaces
+🌐 **Web Wizard:** Translating complex computations into user-friendly interfaces.
 
-📊 **Data Whisperer:** Transforming raw data into meaningful stories
+📊 **Data Whisperer:** Transforming raw data into meaningful stories.
 
-👨🏻‍🏫 **Knowledge Sharer:** Giving workshops and courses on cool methods
+👨🏻‍🏫 **Knowledge Sharer:** Giving workshops and courses on cool methods.
 
 ## What's Cookin'
 
@@ -44,17 +43,15 @@ Welcome to my webpage. Here, I bridge the realms of earth sciences, numerical mo
 
 ## In the news
 
-- ["Die 'Blickfänger' von der Saale](https://issuu.com/aspekt-magazin/docs/aspekt_09_2021_es/s/13541949), Aspekt Magazin, 15.09.2021
+- ["Die 'Blickfänger' von der Saale](https://issuu.com/aspekt-magazin/docs/aspekt_09_2021_es/s/13541949), Aspekt Magazin, 15.09.2021.
   
-- [“Eyetracking für bessere Datenanalyse: Hallesches Startup in den Startlöchern”](https://www.mz.de/lokal/halle-saale/eyetracking-fur-bessere-datenanalyse-hallesches-startup-in-den-startlochern-1708417) - Mitteldeutsche Zeitung, 19.08.2021
+- [“Eyetracking für bessere Datenanalyse: Hallesches Startup in den Startlöchern”](https://www.mz.de/lokal/halle-saale/eyetracking-fur-bessere-datenanalyse-hallesches-startup-in-den-startlochern-1708417) - Mitteldeutsche Zeitung, 19.08.2021.
 
 
-- [“Eyetracking per Webcam: Adsata hat Erfolg im Blick”](https://startup-mitteldeutschland.de/adsata-eyetracking-per-webcam/)-  Startup-Mitteldeutschland, 16.02.2021
+- [“Eyetracking per Webcam: Adsata hat Erfolg im Blick”](https://startup-mitteldeutschland.de/adsata-eyetracking-per-webcam/)-  Startup-Mitteldeutschland, 16.02.2021.
 
 
-- [“Schau mir in die Augen”](https://www.investieren-in-sachsen-anhalt.de/report-invest/schau-mir-in-die-augen) - Investitions- und Marketinggesellschaft Sachsen-Anhalt, 28.07.2021
-
-- Podcast: [”Finding My Community: Immigration and Tech” with Taimur Khan of Adsata | Educative Sessions](https://educativesessions.podbean.com/e/30-finding-my-community-immigration-and-tech-with-taimur-khan-of-adsata-educative-sessions/)
+- [“Schau mir in die Augen”](https://www.investieren-in-sachsen-anhalt.de/report-invest/schau-mir-in-die-augen) - Investitions- und Marketinggesellschaft Sachsen-Anhalt, 28.07.2021.
 
 
 

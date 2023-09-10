@@ -11,6 +11,7 @@ format: html
     <h6 class="card-subtitle mb-2 text-muted">09.2023 @ European Conference on Ecological Modelling 2023 </h6>
     <hr/>
     <a href="https://biodt.github.io/dddas4dt/" class="card-link">Website</a>
+    <a href="https://github.com/BioDT/dddas4dt" class="card-link">Code</a>
   </div>
 </div>
 <br/>

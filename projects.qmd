@@ -4,6 +4,7 @@ format: html
 
 # Project Highlights
 
+
 ```{=html}
 <div class="card bg-light">
   <div class="card-body">
@@ -41,7 +42,7 @@ format: html
 <div class="card bg-light">
   <div class="card-body">
     <h2 class="card-title">Halle Treecrowns</h2>
-    <h6 class="card-text">Deep Learning based tree crown detection for city of Halle</h6>
+    <h6 class="card-text">Deep Learning based tree crown delineation from orthoimagery for the city of Halle (Saale)</h6>
     <h6 class="card-subtitle mb-2 text-muted">2023 @ Helmholtz-UFZ</h6>
     <a href="https://halletrees.de" class="card-link">Website</a>
       <a href="https://git.ufz.de/khant/halle-treecrowns" class="card-link">Code</a>
