@@ -20,7 +20,7 @@
 
 @media (max-width: 600px) {
   .profile-pic {
-    display: none;
+    height: 100px;
   }
 }
 
@@ -34,7 +34,7 @@
 }
 
 .profile-pic {
-  border-radius: 50%; 
+  border-radius: 50%;
   clip-path: polygon(
     50% 0%,
     83% 12%,
@@ -46,5 +46,4 @@
     0% 43%,
     17% 12%
   );
-
 }
