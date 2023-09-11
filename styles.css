@@ -17,3 +17,34 @@
 .tree {
   height: 327px;
 }
+
+@media (max-width: 600px) {
+  .profile-pic {
+    display: none;
+  }
+}
+
+@media (min-width: 600px) {
+  .profile-header .quarto-layout-row {
+    flex-direction: row;
+  }
+  .formkit-form .formkit-fields {
+    flex-direction: row !important;
+  }
+}
+
+.profile-pic {
+  border-radius: 50%; 
+  clip-path: polygon(
+    50% 0%,
+    83% 12%,
+    100% 43%,
+    94% 78%,
+    68% 100%,
+    32% 100%,
+    6% 78%,
+    0% 43%,
+    17% 12%
+  );
+
+}

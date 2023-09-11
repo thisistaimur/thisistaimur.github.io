@@ -1,11 +1,13 @@
 ---
 format: html
 ---
+::: {layout="[21,79]" .profile-header}
+
+![](images/taimur.jpeg){.profile-pic}
+
 # Hej! 👋🏼 
-
-<img class="cover" src="images/taimur.jpeg" />
-
-Welcome to my webpage. Here, I bridge the realms of earth sciences, numerical modeling, backend technologies, web computation, and data science.
+I am Taimur Khan and I welcome you to my webpage. Here, I bridge the realms of earth sciences, numerical modeling, backend technologies, web computation, and data science.
+:::
 
  <a href="https://www.linkedin.com/in/taimur-h-khan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
