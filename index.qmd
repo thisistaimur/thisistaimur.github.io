@@ -5,7 +5,7 @@ format: html
 
 ![](images/taimur.jpeg){.profile-pic}
 
-# Hej! 👋🏼 
+# Hej! 👋🏽 
 I am Taimur Khan and I welcome you to my webpage. Here, I bridge the realms of earth sciences, numerical modeling, backend technologies, web computation, and data science.
 :::
 
