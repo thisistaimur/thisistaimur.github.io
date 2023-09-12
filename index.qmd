@@ -6,7 +6,8 @@ format: html
 ![](images/taimur.jpeg){.profile-pic}
 
 # Hej! 👋🏽 
-I am Taimur Khan and I welcome you to my webpage. Here, I bridge the realms of earth sciences, numerical modeling, backend technologies, web computation, and data science.
+I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=33573) in the [BioDT](https://biodt.eu ) project. Combining advances in computation and ecological science, I aim to create Digital Twin systems that can replicate the Earth's dynamic systems using modern methods in data engineering, data-driven software engineering, and statistical modelling. I am also a part-time Master's student at the University of Leipzig, studying Earth System Data Science and Remote Sensing. 
+
 :::
 
  <a href="https://www.linkedin.com/in/taimur-h-khan/">
@@ -33,7 +34,7 @@ I am Taimur Khan and I welcome you to my webpage. Here, I bridge the realms of e
 
 ## What's Cookin'
 
-📚 Currently delving into the depths of numerical and statistical modeling techniques to simulate Earth's dynamic processes via Digital Twins.
+📚 Currently delving into the depths of real-time simulations of Earth's dynamic processes via Digital Twins.
 
 🔧 Building sophisticated backend systems that power cutting-edge scientific applications ranging from ML/AI pipelines to dynamic Digital Twin wokflows.
 
