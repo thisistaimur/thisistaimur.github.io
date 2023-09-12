@@ -6,7 +6,7 @@ format: html
 ![](images/taimur.jpeg){.profile-pic}
 
 # Hej! 👋🏽 
-I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=33573) in the [BioDT](https://biodt.eu ) project. Combining advances in computation and ecological science, I aim to create Digital Twin systems that can replicate, monitor, and predict the Earth's dynamic systems using modern methods in data engineering, data-driven software engineering, and statistical modelling. I am also a part-time Master's student at the [University of Leipzig](https://www.uni-leipzig.de/studium/vor-dem-studium/studienangebot/studiengang/course/show/earth-system-data-science-and-remote-sensing-m-sc), studying Earth System Data Science and Remote Sensing. 
+I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=33573) in the [BioDT](https://biodt.eu) project. Combining advances in computation and ecological science, I aim to create Digital Twin systems that can replicate, monitor, and predict the Earth's dynamic systems using modern methods in data engineering, data-driven software engineering, and statistical modelling. I am also a part-time Master's student at the [University of Leipzig](https://www.uni-leipzig.de/studium/vor-dem-studium/studienangebot/studiengang/course/show/earth-system-data-science-and-remote-sensing-m-sc), studying Earth System Data Science and Remote Sensing. 
 
 :::
 
@@ -20,7 +20,7 @@ I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Re
 
 ## About Me
 
-🌎 **Academic Background:** Geosciences and Physics (Undergraduate), Earth System Data Science and Remote Sensing (Graduate, ongoing).
+🌎 **Academic Background:** Geosciences and Physics (Undergraduate) @ [Skidmore College](https://www.skidmore.edu), Earth System Data Science and Remote Sensing (Graduate, ongoing) @ [University of Leipzig](https://www.uni-leipzig.de).
 
 🔬 **Research Enthusiast:** Unraveling Earth's secrets through numerical and statistical models.
 
