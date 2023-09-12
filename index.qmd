@@ -6,7 +6,7 @@ format: html
 ![](images/taimur.jpeg){.profile-pic}
 
 # Hej! 👋🏽 
-I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=33573) in the [BioDT](https://biodt.eu) project. Combining advances in computational and ecological science, I aim to create Digital Twin systems that can replicate, monitor, and predict the Earth's dynamic systems using modern methods in data engineering, data-driven software engineering, and statistical modelling. I am also a part-time Master's student at the [University of Leipzig](https://www.uni-leipzig.de/studium/vor-dem-studium/studienangebot/studiengang/course/show/earth-system-data-science-and-remote-sensing-m-sc), studying Earth System Data Science and Remote Sensing. 
+I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=33573) in the [BioDT](https://biodt.eu) project. Combining advances in computational and ecological science, I aim to create Digital Twin systems that can replicate, monitor, and predict the Earth's dynamic systems using modern methods in software engineering, earth observation, and computational modelling. I am also a part-time Master's student at the [University of Leipzig](https://www.uni-leipzig.de/studium/vor-dem-studium/studienangebot/studiengang/course/show/earth-system-data-science-and-remote-sensing-m-sc), studying Earth System Data Science and Remote Sensing. 
 
 :::
 
