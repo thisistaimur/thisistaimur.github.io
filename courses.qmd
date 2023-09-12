@@ -40,7 +40,7 @@ format: html
 
 <div class="card bg-light">
   <div class="card-body">
-    <h2 class="card-title">Course: Web-Development (MERN Stack) Bootcamp</h2>
+    <h2 class="card-title">Course: Web-Development (MERN Stack)</h2>
     <h6 class="card-subtitle mb-2 text-muted">06.2020 - 04.2021 @ Digital Career Institute </h6>
     <hr/>
     <a href="https://digitalcareerinstitute.org/courses/web-development/" class="card-link">Website</a>
