@@ -38,7 +38,7 @@ I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Re
 
 🔧 Building sophisticated backend systems that power cutting-edge scientific applications ranging from ML/AI pipelines to dynamic Digital Twin wokflows.
 
-🧮 Modeling complex systems using advances in science, statistics, and digital technologies.
+🧮 Modeling complex systems using High Performance Computing.
 
 🌐 Creating interactive web experiences that bring computational sense to the masses.
 
