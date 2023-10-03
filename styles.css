@@ -1,17 +1,7 @@
 /* css styles */
 .cover {
-  clip-path: polygon(
-    50% 0%,
-    83% 12%,
-    100% 43%,
-    94% 78%,
-    68% 100%,
-    32% 100%,
-    6% 78%,
-    0% 43%,
-    17% 12%
-  );
-  height: 100px;
+ clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+  height: 300px;
 }
 
 .tree {
@@ -35,5 +25,5 @@
 
 .profile-pic {
   border-radius: 50%;
-  clip-path: ellipse(75% 100% at 50% 50%);
+clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
 }
