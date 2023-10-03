@@ -1,6 +1,6 @@
 /* css styles */
 .cover {
- clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
   height: 300px;
 }
 
@@ -24,6 +24,5 @@
 }
 
 .profile-pic {
-  border-radius: 50%;
-clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+  margin-top: 55%;
 }
