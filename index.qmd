@@ -6,9 +6,11 @@ format: html
 ![](images/taimur-2.jpeg){.profile-pic}
 
 # Hej! 👋🏽 
-I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=49404) in the [BioDT](https://biodt.eu) project. Combining advances in computational and ecological science, I aim to create Digital Twin systems that can replicate, monitor, and predict the Earth's dynamic systems using modern methods in software engineering, earth observation, and computational modelling. I am also a part-time Master's student at the [University of Leipzig](https://www.uni-leipzig.de/studium/vor-dem-studium/studienangebot/studiengang/course/show/earth-system-data-science-and-remote-sensing-m-sc), studying Earth System Data Science and Remote Sensing. 
+I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=49404) in the [BioDT](https://biodt.eu) project. Combining advances in computational and ecological sciences, I aid partnered researchers and engineers in creating Digital Twin systems that can replicate, monitor, and predict the Earth's dynamic systems using modern methods in software engineering, earth observation, and computational modelling. I am also a part-time Master's student at the [University of Leipzig](https://www.uni-leipzig.de/studium/vor-dem-studium/studienangebot/studiengang/course/show/earth-system-data-science-and-remote-sensing-m-sc), studying Earth System Data Science and Remote Sensing. 
 
 :::
+
+:::{.badges}
 
  <a href="https://www.linkedin.com/in/taimur-h-khan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,6 +19,8 @@ I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Re
   <a href="https://github.com/thisistaimur">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" />
   </a>
+
+:::
 
 ## About Me
 

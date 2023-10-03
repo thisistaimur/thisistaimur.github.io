@@ -11,6 +11,10 @@
 @media (max-width: 600px) {
   .profile-pic {
     height: 100px;
+    margin-top: 0%;
+  }
+  .badges {
+    margin-top: 0%;
   }
 }
 
@@ -21,8 +25,12 @@
   .formkit-form .formkit-fields {
     flex-direction: row !important;
   }
+  .badges {
+    margin-top: -12%;
+  }
+  .profile-pic {
+  margin-top: 0%;
+}
 }
 
-.profile-pic {
-  margin-top: 55%;
-}
+
