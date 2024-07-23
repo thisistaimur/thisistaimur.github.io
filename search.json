@@ -1,58 +1,58 @@
 [
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Taimur Khan",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "References",
     "section": "",
-    "text": "Past Teaching Activities\n\n  \n    Workshop: Designing Data-Driven Digtal Twin Systems in Ecology\n    09.2023 @ European Conference on Ecological Modelling 2023 \n    \n    Website\n    Code\n  \n\n\n\n\n  \n    Workshop: Processiong JSON in R\n    02.2023 @ Helmholtz-UFZ \n    \n    Code\n  \n\n\n\n\n\n\n  \n    Course material: Python Backend Development\n    07.2021 - 11.2021 @ Digital Career Institute \n    \n    Website\n  \n\n\n\n\n  \n    Course: Web-Development (MERN Stack)\n    06.2020 - 04.2021 @ Digital Career Institute \n    \n    Website\n    Code\n  \n\n\n\n\n\n  \n    Course: Intro to Full-Stack JavaScript\n    04.2020 - 07.2020 @ Martin-Luther-University Halle-Wittenberg\n    \n    Website\n    Code\n  \n\n\n\n\n\n\n\n© Taimur Khan."
+    "text": "References\n\nKhan, T., Koning, de K., Endresen, D., Chala, D., Kusch, E. (In-Review) TwinEco: A Unified Framework for Dynamic Data-Driven Digital Twins in Ecology. Ecological Modeling. Pre-print DOI:\nTaubert, F., Rossi, T., Wohner, C., Venier, S., Martinovič, T., Khan, T., … & Banitz, T. (2024). Prototype Biodiversity Digital Twin: grassland biodiversity dynamics. Research Ideas and Outcomes, 10, e124168. DOI: https://doi.org/10.3897/rio.10.e124168\nKhan, T., El-Gabbas, A., Golivets, M., Souza, A., Gordillo, J., Kierans, D., & Kühn, I. (2024). Prototype Biodiversity Digital Twin: Invasive Alien Species. Research Ideas and Outcomes, 10, e124579. DOI: https://doi.org/10.3897/rio.10.e124579\nKhan, T. (2023). Designing Data Drive Digital Twin Systems. Workshop 9: European Conference on Ecological Modeling 2023. DOI: https://doi.org/10.5281/zenodo.8313904\nKhan, T. (2017). DC Resistivity: Estimating pore moisture distribution and mapping permafrost content in Kaunertal, Austria. Department of Geosciences. Skidmore College.\nKhan, T., Banitz, T., Golivets, M., Grimm, V., Groeneveld, J., Kühn, I., Taubert, F. (2022). Prototyping a Biodiversity Digital Twin. Helmholtz-UFZ Science Days 2022. DOI: https://doi.org/10.5281/zenodo.8079131\nMorche, D., Baewert, H., Schuchardt, A., Faust, M., Weber, M., & Khan, T. (2019). Fluvial sediment transport in the proglacial Fagge river, Kaunertal, Austria. Geomorphology of Proglacial Systems (pp. 219-229). Springer, Cham.\n\n\n\n\n\n© Taimur Khan."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Taimur Khan",
+    "title": "Project Highlights",
     "section": "",
-    "text": "Project Highlights\n\n  \n    BioDT\n    Biodiversity Digital Twin for Advanced Modelling, Simulation and Prediction Capabilities\n    2022-present @ Helmholtz-UFZ\n    Website\n    Code\n  \n\n\n\n\n  \n    Adsata\n    Edge Machine Learning based webcam eyetracking. Create studies to explore visual interaction.\n    2019-present @ Adsata\n    Website\n    Code\n  \n\n\n\n\n  \n    EICAA Digital Platform\n    Entrepreneurship and Intrapreneurship Competence Assessment alliance \n    2020-2023 @ Adsata\n    Website\n    Code\n  \n\n\n\n\n  \n    Halle Treecrowns\n    Deep Learning based tree crown delineation from orthoimagery for the city of Halle (Saale)\n    2023 @ Helmholtz-UFZ\n    Website\n      Code\n  \n\n\n\n\n  \n    Metalabel 📚\n    Semantic labelling tool for column headers in CSV and Excel files \n    2022 @ Helmholtz-UFZ\n    Website\n    Code\n  \n\n\n\n\n\n  \n    TDG Website and Nextcloud\n    Translationsregion für digitale Gesundheitsversorgung\n    2020-2022 @ Adsata\n    Website\n  \n\n\n\n\n  \n    ISGEE\n    Implementing Serious Games in Entrepreneurship Education \n    2019-present @ Univations\n    Website\n  \n\n\n\n\n\n\n  \n    Matrix in Urdu\n    Visual project for simulating the \"Matrix rain\" in urdu nastaliq characters\n    2021 @ Personal\n    Website\n    Code\n    \n\n  \n\n\n\n\n\n\n\n\n© Taimur Khan."
+    "text": "Project Highlights\n\n\n  \n    DeepTrees\n    Deep-Learning based spatiotemporal tree inventorying and monitoring from public orthoimages\n    2024-present @ Helmholtz-UFZ\n    Website\n    Code\n  \n\n\n\n\n\n  \n    BioDT\n    Biodiversity Digital Twin for Advanced Modelling, Simulation and Prediction Capabilities\n    2022-present @ Helmholtz-UFZ\n    Website\n    Code\n  \n\n\n\n\n  \n    OPeNDAP Data Catalog\n    Catalog software for creating repositories of centralized environmental research data objects for remote access.\n    2022-present @ Helmholtz-UFZ\n    Website\n    Code\n  \n\n\n\n\n  \n    Adsata\n    Edge Machine Learning based webcam eyetracking. Create studies to explore visual interaction.\n    2019-present @ Adsata\n    Website\n    Code\n  \n\n\n\n\n  \n    EICAA Digital Platform\n    Entrepreneurship and Intrapreneurship Competence Assessment alliance \n    2020-2023 @ Adsata\n    Website\n    Code\n  \n\n\n\n\n  \n    Halle Treecrowns\n    Deep Learning based tree crown delineation from orthoimagery for the city of Halle (Saale)\n    2023 @ Helmholtz-UFZ\n    Website\n      Code\n  \n\n\n\n\n  \n    Metalabel 📚\n    Semantic labelling tool for column headers in CSV and Excel files \n    2022 @ Helmholtz-UFZ\n    Website\n    Code\n  \n\n\n\n\n\n  \n    TDG Website and Nextcloud\n    Translationsregion für digitale Gesundheitsversorgung\n    2020-2022 @ Adsata\n    Website\n  \n\n\n\n\n  \n    ISGEE\n    Implementing Serious Games in Entrepreneurship Education \n    2019-present @ Univations\n    Website\n  \n\n\n\n\n\n\n  \n    Matrix in Urdu\n    Visual project for simulating the \"Matrix rain\" in urdu nastaliq characters\n    2021 @ Personal\n    Website\n    Code\n    \n\n  \n\n\n\n\n\n\n\n\n© Taimur Khan."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Past Teaching Activities",
+    "section": "",
+    "text": "Past Teaching Activities\n\n  \n    Workshop: Designing Data-Driven Digtal Twin Systems in Ecology\n    09.2023 @ European Conference on Ecological Modelling 2023 \n    \n    Website\n    Code\n  \n\n\n\n\n  \n    Workshop: Processiong JSON in R\n    02.2023 @ Helmholtz-UFZ \n    \n    Code\n  \n\n\n\n\n\n\n  \n    Course material: Python Backend Development\n    07.2021 - 11.2021 @ Digital Career Institute \n    \n    Website\n  \n\n\n\n\n  \n    Course: Web-Development (MERN Stack)\n    06.2020 - 04.2021 @ Digital Career Institute \n    \n    Website\n    Code\n  \n\n\n\n\n\n  \n    Course: Intro to Full-Stack JavaScript\n    04.2020 - 07.2020 @ Martin-Luther-University Halle-Wittenberg\n    \n    Website\n    Code\n  \n\n\n\n\n\n\n\n© Taimur Khan."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Taimur Khan",
+    "title": "Hej! 👋🏽",
     "section": "",
-    "text": "I am Taimur Khan, a Data Scientist at the Helmholtz-Center for Environmental Research (UFZ) in the BioDT project. Combining advances in computational and ecological sciences, I aid partnered researchers and engineers in creating Digital Twin systems that can replicate, monitor, and predict the Earth’s dynamic systems using modern methods in software engineering, earth observation, and computational modelling. I am also a part-time Master’s student at the University of Leipzig, studying Earth System Data Science and Remote Sensing.\n© Taimur Khan."
+    "text": "© Taimur Khan."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "Taimur Khan",
+    "title": "Hej! 👋🏽",
     "section": "About Me",
     "text": "About Me\n🌎 Academic Background: Geosciences and Physics (Undergraduate) @ Skidmore College, Earth System Data Science and Remote Sensing (Graduate, ongoing) @ University of Leipzig.\n🔬 Research Enthusiast: Unraveling Earth’s secrets through numerical and statistical models.\n💻 Backend Devotee: Crafting robust and efficient systems.\n🌐 Web Wizard: Translating complex computations into user-friendly interfaces.\n📊 Data Whisperer: Transforming raw data into meaningful stories.\n👨🏻‍🏫 Knowledge Sharer: Giving workshops and courses on cool methods."
   },
   {
     "objectID": "index.html#whats-cookin",
     "href": "index.html#whats-cookin",
-    "title": "Taimur Khan",
+    "title": "Hej! 👋🏽",
     "section": "What’s Cookin’",
     "text": "What’s Cookin’\n📚 Currently delving into the depths of real-time simulations of Earth’s dynamic processes via Digital Twins.\n🔧 Building sophisticated backend systems that power cutting-edge scientific applications ranging from ML/AI pipelines to dynamic Digital Twin wokflows.\n🧮 Modeling complex systems using High Performance Computing.\n🌐 Creating interactive web experiences that bring computational sense to the masses.\n📈 Taming complex datasets to reveal patterns, trends, and insights that inspire change."
   },
   {
     "objectID": "index.html#in-the-news",
     "href": "index.html#in-the-news",
-    "title": "Taimur Khan",
+    "title": "Hej! 👋🏽",
     "section": "In the news",
     "text": "In the news\n\n“Die ‘Blickfänger’ von der Saale, Aspekt Magazin, 15.09.2021.\n“Eyetracking für bessere Datenanalyse: Hallesches Startup in den Startlöchern” - Mitteldeutsche Zeitung, 19.08.2021.\n“Eyetracking per Webcam: Adsata hat Erfolg im Blick”- Startup-Mitteldeutschland, 16.02.2021.\n“Schau mir in die Augen” - Investitions- und Marketinggesellschaft Sachsen-Anhalt, 28.07.2021."
   },
   {
     "objectID": "index.html#lets-collaborate",
     "href": "index.html#lets-collaborate",
-    "title": "Taimur Khan",
+    "title": "Hej! 👋🏽",
     "section": "Let’s Collaborate!",
     "text": "Let’s Collaborate!\n🌱 Open to collaborations on exciting projects at the intersection of earth systems, physics, and technology.\n💬 Hit the mail button in the menu and feel free to reach out for discussions, brainstorming, or simply a virtual chat."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Taimur Khan",
-    "section": "",
-    "text": "References\n\nKhan, T. (2023). Designing Data Drive Digital Twin Systems. Workshop 9: European Conference on Ecological Modeling 2023. DOI: https://doi.org/10.5281/zenodo.8313904\nKhan, T. (2017). DC Resistivity: Estimating pore moisture distribution and mapping permafrost content in Kaunertal, Austria. Department of Geosciences. Skidmore College.\nKhan, T., Banitz, T., Golivets, M., Grimm, V., Groeneveld, J., Kühn, I., Taubert, F. (2022). Prototyping a Biodiversity Digital Twin. Helmholtz-UFZ Science Days 2022. DOI: https://doi.org/10.5281/zenodo.8079131\nMorche, D., Baewert, H., Schuchardt, A., Faust, M., Weber, M., & Khan, T. (2019). Fluvial sediment transport in the proglacial Fagge river, Kaunertal, Austria. Geomorphology of Proglacial Systems (pp. 219-229). Springer, Cham.\nSchreiber, D.(Gutachter: Hinneburg A. & Khan, T). (2021). Klassifizierung von okulomotorischen Ereignissen (Fixierungen und Sakkaden) in webcam-basierten Eye-Tracking. Bachelor Arbeit. Institut für Informatik, Martin-Luther-University.\n\n\n\n\n\n© Taimur Khan."
   }
 ]
