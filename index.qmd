@@ -20,6 +20,10 @@ I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Re
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" />
   </a>
 
+  <a href="https://orcid.org/0000-0001-7833-5474">
+    <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="30px"/>
+  </a>
+
 :::
 
 ## About Me
