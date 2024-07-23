@@ -17,6 +17,8 @@ website:
         text: Teaching
       - href: publications.qmd
         text: Publications
+      - href: https://thisistaimur.me/lab
+        text: Lab  
     right:
       - href: "mailto:thisistaimur@icloud.com"
         text: 📮

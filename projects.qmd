@@ -6,6 +6,19 @@ format: html
 
 
 ```{=html}
+
+<div class="card bg-light">
+  <div class="card-body">
+    <h2 class="card-title">DeepTrees</h2>
+    <h6 class="card-text">Deep-Learning based spatiotemporal tree inventorying and monitoring from public orthoimages</h6>
+    <h6 class="card-subtitle mb-2 text-muted">2024-present @ Helmholtz-UFZ</h6>
+    <a href="https://deeptrees.de" class="card-link">Website</a>
+    <a href="https://git.ufz.de/deeptrees" class="card-link">Code</a>
+  </div>
+</div>
+<br/>
+
+
 <div class="card bg-light">
   <div class="card-body">
     <h2 class="card-title">BioDT</h2>
