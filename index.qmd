@@ -6,7 +6,7 @@ format: html
 ![](images/taimur-2.jpeg){.profile-pic}
 
 # Hej! 👋🏽 
-I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=49404) in the [BioDT](https://biodt.eu) project. Combining advances in computational and ecological sciences, I aid partnered researchers and engineers in creating Digital Twin systems that can replicate, monitor, and predict the Earth's dynamic systems using modern methods in software engineering, earth observation, and computational modelling. I am also a part-time Master's student at the [University of Leipzig](https://www.uni-leipzig.de/studium/vor-dem-studium/studienangebot/studiengang/course/show/earth-system-data-science-and-remote-sensing-m-sc), studying Earth System Data Science and Remote Sensing. 
+I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=49404). Combining advances in ML/AI and remote sensing, I aid partnered researchers and engineers in creating Digital Twin and AI systems that can replicate, monitor, and predict the Earth's dynamic processes using modern methods in software engineering, earth observation, and computational modelling. I am also the founder of [Adsata](https://adsata.com), a startup that uses AI to convert webcams into secure eye trackers that track user attention and engagement in digital content.
 
 :::
 
@@ -36,21 +36,28 @@ I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Re
 
 🌐 **Web Wizard:** Translating complex computations into user-friendly interfaces.
 
-📊 **Data Whisperer:** Transforming raw data into meaningful stories.
+📊 **AI Whisperer:** Transforming raw data into meaningful models.
 
 👨🏻‍🏫 **Knowledge Sharer:** Giving workshops and courses on cool methods.
 
-## What's Cookin'
+## Glimpses into my work
 
-📚 Currently delving into the depths of real-time simulations of Earth's dynamic processes via Digital Twins.
 
-🔧 Building sophisticated backend systems that power cutting-edge scientific applications ranging from ML/AI pipelines to dynamic Digital Twin wokflows.
+**Segmenting tree crowns in multispectral imagery using deep learning.** 
 
-🧮 Modeling complex systems using High Performance Computing.
+![](images/trees.gif){.lightbox}
 
-🌐 Creating interactive web experiences that bring computational sense to the masses.
+**Foreceasting smog events using spatiotemporal deep learning**
 
-📈 Taming complex datasets to reveal patterns, trends, and insights that inspire change.
+![](images/smogseer.gif){.lightbox}
+
+**Secure webcam eyetracking with edge machine learning to track user attention and engagement in digital content.**
+
+![](images/adsata.gif){.lightbox}
+
+**Simulating tree dynamics using processing**
+
+![](images/treesim.gif){.lightbox}
 
 ## In the news
 

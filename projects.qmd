@@ -9,11 +9,22 @@ format: html
 
 <div class="card bg-light">
   <div class="card-body">
+    <h2 class="card-title">BMD</h2>
+    <h6 class="card-text">Biodiversity Meets Data</h6>
+    <h6 class="card-subtitle mb-2 text-muted">2025-present @ Helmholtz-UFZ</h6>
+    <a href="https://bmd-project.eu" class="card-link">Website</a>
+    <a href="https://github.com/Biodiversity-Meets-Data" class="card-link">Code</a>
+  </div>
+</div>
+<br/>
+
+<div class="card bg-light">
+  <div class="card-body">
     <h2 class="card-title">DeepTrees</h2>
-    <h6 class="card-text">Deep-Learning based spatiotemporal tree inventorying and monitoring from public orthoimages</h6>
+    <h6 class="card-text">Tree Crown Segmentation and Analysis in Remote Sensing Imagery with PyTorch</h6>
     <h6 class="card-subtitle mb-2 text-muted">2024-present @ Helmholtz-UFZ</h6>
     <a href="https://deeptrees.de" class="card-link">Website</a>
-    <a href="https://git.ufz.de/deeptrees" class="card-link">Code</a>
+    <a href="https://codebase.helmholtz.cloud/taimur.khan/DeepTrees" class="card-link">Code</a>
   </div>
 </div>
 <br/>
@@ -26,6 +37,17 @@ format: html
     <h6 class="card-subtitle mb-2 text-muted">2022-present @ Helmholtz-UFZ</h6>
     <a href="https://biodt.eu" class="card-link">Website</a>
     <a href="https://github.com/BioDT" class="card-link">Code</a>
+  </div>
+</div>
+<br/>
+
+<div class="card bg-light">
+  <div class="card-body">
+    <h2 class="card-title">Smogseer</h2>
+    <h6 class="card-text">A Convolutional LSTM implementation for forecasting air quality from Sentinel-5P data</h6>
+    <h6 class="card-subtitle mb-2 text-muted">2024 @ University of Leipzig</h6>
+    <a href="https://thisistaimur.me/smogseer" class="card-link">Website</a>
+    <a href="https://github.com/thisistaimur/smogseer" class="card-link">Code</a>
   </div>
 </div>
 <br/>
