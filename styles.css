@@ -8,6 +8,10 @@
   height: 327px;
 }
 
+.badges {
+    margin-top: -2000%;
+  }
+
 @media (max-width: 600px) {
   .profile-pic {
     height: 100px;

@@ -5,26 +5,11 @@ format: html
 
 ![](images/taimur-2.jpeg){.profile-pic}
 
-# Hej! 👋🏽 
-I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=49404). Combining advances in ML/AI and remote sensing, I aid partnered researchers and engineers in creating Digital Twin and AI systems that can replicate, monitor, and predict the Earth's dynamic processes using modern methods in software engineering, earth observation, and computational modelling. I am also the founder of [Adsata](https://adsata.com), a startup that uses AI to convert webcams into secure eye trackers that track user attention and engagement in digital content.
+# [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taimur-h-khan/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thisistaimur) [![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0000-0001-7833-5474){width="30%"} [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?color=1f1f18&logo=google-scholar&style=flat-square)](https://scholar.google.de/citations?user=5vSbNw0AAAAJ)
+I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=49404). Combining advances in ML/AI high-performance computing and remote sensing, I aid partnered researchers and engineers in creating Digital Twin and AI systems that can replicate, monitor, and predict the Earth's dynamic processes. I am also the founder of [Adsata](https://adsata.com), a startup that uses AI to convert webcams into secure eye trackers that track user attention and engagement in digital content.
 
 :::
 
-:::{.badges}
-
- <a href="https://www.linkedin.com/in/taimur-h-khan/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
- 
-  <a href="https://github.com/thisistaimur">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" />
-  </a>
-
-  <a href="https://orcid.org/0000-0001-7833-5474">
-    <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="30px"/>
-  </a>
-
-:::
 
 ## About Me
 
