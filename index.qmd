@@ -5,7 +5,7 @@ format: html
 
 ![](images/taimur-2.jpeg){.profile-pic}
 
-
+# Welcome!
 I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=49404). Combining advances in ML/AI high-performance computing and remote sensing, I aid partnered researchers and engineers in creating Digital Twin and AI systems that can replicate, monitor, and predict the Earth's dynamic processes. I am also the founder of [Adsata](https://adsata.com), a startup that uses AI to convert webcams into secure eye trackers that track user attention and engagement in digital content.
 
 :::
