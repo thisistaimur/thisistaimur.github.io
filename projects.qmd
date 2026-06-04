@@ -1,4 +1,6 @@
 ---
+title: "Projects"
+description: "Selected projects by Taimur Khan in biodiversity digital twins, remote sensing, computer vision, AI, research data systems, and web engineering."
 format: html
 ---
 
@@ -145,4 +147,3 @@ format: html
 
 
 ```
-

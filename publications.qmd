@@ -1,6 +1,16 @@
-# Publications
+---
+title: "Research Publications"
+description: "Research publications by Taimur Khan on Earth observation, forest structure inference, biodiversity digital twins, remote sensing, AI, and ecological modelling."
+format: html
+---
 
-- Trantas, A., Mensio, M., Stasinos, S., Gribincea, S., **Khan, T.**, Podareanu, D., & van der Veen, A. (2025). BioAnalyst: A Foundation Model for Biodiversity. arXiv preprint arXiv:2507.09080. Pre-print DOI: [https://doi.org/10.48550/arXiv.2507.09080](https://doi.org/10.48550/arXiv.2507.09080)
+# Research Publications
+
+- **Khan, T.**, Feilhauer, H., & Zafar, M. J. (2026). FSKD: Monocular Forest Structure Inference via LiDAR-to-RGBI Knowledge Distillation. arXiv preprint arXiv:2604.01766. DOI
+[https://doi.org/10.48550/arXiv.2604.01766](https://doi.org/10.48550/arXiv.2604.01766)
+- Krüger, N., Uhlig, S., Gardke, S., & **Khan, T.** (2026). Von Geodaten zu Erkenntnissen – KI-basierte Waldanalyse für den Digitalen Fachzwilling. In 46. Wissenschaftlich-Technische Jahrestagung der DGPF, 25–27. März 2026 in Darmstadt (pp. 315–320). Geschäftsstelle der DGPF. DOI: [https://doi.org/10.24407/KXP:1969211504](https://doi.org/10.24407/KXP:1969211504)
+- **Khan, T.** (2026). TiledAttention: a CUDA Tile SDPA Kernel for PyTorch. arXiv preprint arXiv:2603.01960. DOI: [https://doi.org/10.48550/arXiv.2603.01960](https://doi.org/10.48550/arXiv.2603.01960)
+- Trantas, A., Mensio, M., Stasinos, S., Gribincea, S., **Khan, T.**, Podareanu, D., & van der Veen, A. (2025). BioAnalyst: A Foundation Model for Biodiversity. arXiv preprint arXiv:2507.09080. DOI: [https://doi.org/10.48550/arXiv.2507.09080](https://doi.org/10.48550/arXiv.2507.09080)
 - **Khan, T.**, Krebs, J., Gupta, S. K., Renkel, J., Arnold, C., Nölke, N., … Grimm, V. (2025). Validation Challenges in Large‑Scale Tree Crown Segmentations from Remote Sensing Imagery Using Deep Learning: A Case Study in Germany. In Proceedings of The 29th International Conference on Theory and Practice of Digital Libraries,
 TPDL 2025 Workshops, Tampere, Finland, September 23-26, 2025, Lecture Notes in Computer Science (LNCS) (Vol. XXX, pp. xxx–xxx). Springer. DOI: [https://doi.org/10.1007/978-3-032-06136-2_30](https://doi.org/10.1007/978-3-032-06136-2_30)
 - **Khan, T.**, Arnold, C., & Grover, H. (2025). DeepTrees: Tree Crown Segmentation and Analysis in Remote Sensing Imagery with PyTorch. Journal of Open Source Software (JOSS). DOI: [https://doi.org/10.21105/joss.08056](https://doi.org/10.21105/joss.08056)

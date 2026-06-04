@@ -1,85 +1,237 @@
 ---
-format: html
+title: "About"
+description: "Taimur Khan builds AI, remote sensing, and high-performance computing systems for Earth computer vision, ecological modelling, and digital twin workflows."
+image: images/taimur-2.jpeg
+format:
+  html:
+    toc: false
 ---
-::: {layout="[21,79]" .profile-header}
 
-![](images/taimur-2.jpeg){.profile-pic}
-
-# Welcome!
-I am Taimur Khan, a Data Scientist at the [Helmholtz-Center for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=49404). Combining advances in ML/AI high-performance computing and remote sensing, I aid partnered researchers and engineers in creating Digital Twin and AI systems that can replicate, monitor, and predict the Earth's dynamic processes. I am also the founder of [Adsata](https://adsata.com), a startup that uses AI to convert webcams into secure eye trackers that track user attention and engagement in digital content.
-
-:::
-
-
-
-:::{.badges}
-
- <a href="https://www.linkedin.com/in/taimur-h-khan/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/thisistaimur">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" />
-  </a>
-
-  <a href="https://orcid.org/0000-0001-7833-5474">
-    <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="30px"/>
-  </a>
-
-:::
-
+```{=html}
+<section class="profile-hero">
+  <div class="profile-hero__content">
+   <!--  <p class="eyebrow">Earth System Data Science | Computer Vision | Digital Twins</p> -->
+    <h1>Taimur Khan</h1>
+    <p class="hero-lede">
+      I build AI, remote sensing, and high-performance computing systems that help researchers model,
+      monitor, and predict environmental change.
+    </p>
+    <div class="hero-tags" aria-label="Focus areas">
+      <span>Computer Vision</span>
+      <span>HPC</span>
+      <span>Deep Learning</span>
+      <span>Web Development</span>
+      <span>Remote Sensing</span>
+    </div>
+    <div class="hero-actions">
+      <a class="button button-primary" href="projects.html">View projects</a>
+      <a class="button button-secondary" href="mailto:thisistaimur@icloud.com">Get in touch</a>
+    </div>
+    <nav class="hero-socials" aria-label="Profile links">
+      <a href="https://www.linkedin.com/in/taimur-h-khan/" aria-label="LinkedIn">
+        <span aria-hidden="true">in</span>
+      </a>
+      <a href="https://github.com/thisistaimur" aria-label="GitHub">
+        <svg aria-hidden="true" viewBox="0 0 24 24" focusable="false">
+          <path d="M12 2C6.48 2 2 6.58 2 12.23c0 4.51 2.87 8.34 6.84 9.69.5.09.68-.22.68-.49v-1.89c-2.78.62-3.37-1.22-3.37-1.22-.46-1.19-1.12-1.51-1.12-1.51-.91-.64.07-.63.07-.63 1.01.07 1.54 1.06 1.54 1.06.9 1.57 2.36 1.12 2.94.86.09-.67.35-1.12.64-1.38-2.22-.26-4.56-1.14-4.56-5.06 0-1.12.39-2.03 1.03-2.75-.1-.26-.45-1.3.1-2.71 0 0 .84-.28 2.75 1.05A9.31 9.31 0 0 1 12 6.91c.85 0 1.7.12 2.5.34 1.9-1.33 2.74-1.05 2.74-1.05.55 1.41.2 2.45.1 2.71.64.72 1.03 1.63 1.03 2.75 0 3.93-2.34 4.79-4.57 5.05.36.32.68.94.68 1.9v2.82c0 .27.18.58.69.48A10.04 10.04 0 0 0 22 12.23C22 6.58 17.52 2 12 2Z"/>
+        </svg>
+      </a>
+      <a href="https://orcid.org/0000-0001-7833-5474" aria-label="ORCID">
+        <span aria-hidden="true">iD</span>
+      </a>
+    </nav>
+  </div>
+  <figure class="profile-portrait">
+    <img src="images/taimur-2.jpeg" alt="Portrait of Taimur H. Khan">
+  </figure>
+</section>
+```
 
 ## About Me
 
-🌎 **Academic Background:** Geosciences and Physics (Undergraduate) @ [Skidmore College](https://www.skidmore.edu), Earth System Data Science and Remote Sensing (Graduate, ongoing) @ [University of Leipzig](https://www.uni-leipzig.de).
+```{=html}
+<section class="about-feature">
+  <div class="about-globe-panel" aria-hidden="true">
+    <canvas id="about-globe" class="about-globe" width="720" height="720"></canvas>
+  </div>
+  <div class="about-feature__copy">
+    <span>My vision</span>
+    <h3>The zeitgeist of environmental intelligence</h3>
+    <p>
+      For much of human history, continuous Earth monitoring was closer to a scientific dream than
+      an everyday instrument: the hope of watching forests, cities, oceans, and atmosphere change
+      in real time. Remarkably, this arrived just as AI became practical enough to help read the
+      flood of images and measurements it produces.
+    </p>
+    <p>
+      The work now is to make this abundance intelligible. I build AI and remote sensing tools that
+      help researchers read environmental change carefully, from tree crown segmentation and smog
+      forecasting to biodiversity foundation models.
+    </p>
+  </div>
+</section>
 
-🔬 **Research Enthusiast:** Unraveling Earth's secrets through numerical and statistical models.
+<section class="about-grid">
+  <article>
+    <span>Academic background</span>
+    <p>
+      Earth System Data Science and Remote Sensing (M.Sc.) at
+      <a href="https://www.uni-leipzig.de">University of Leipzig</a>, with Geosciences and Physics
+      (B.A.) from <a href="https://www.skidmore.edu">Skidmore College</a>.
+    </p>
+  </article>
+  <article>
+    <span>Research</span>
+    <p>Unraveling Earth's systems through numerical models, statistical methods, and machine learning.</p>
+  </article>
+  <article>
+    <span>Engineering</span>
+    <p>Crafting robust cloud systems and research software for data-heavy scientific workflows.</p>
+  </article>
+  <article>
+    <span>Interfaces</span>
+    <p>Translating complex computations into clear web tools, dashboards, and decision-support systems.</p>
+  </article>
+  <article>
+    <span>AI systems</span>
+    <p>Transforming raw environmental data into models for representation learning, segmentation, forecasting, and analysis.</p>
+  </article>
+  <article>
+    <span>Teaching</span>
+    <p>Sharing practical methods through workshops, courses, and collaborative technical mentoring.</p>
+  </article>
+</section>
 
-💻 **Backend Devotee:** Crafting robust and efficient systems.
+<script type="module">
+  import createGlobe from "https://cdn.jsdelivr.net/npm/cobe@2.0.1/+esm";
 
-🌐 **Web Wizard:** Translating complex computations into user-friendly interfaces.
+  const canvas = document.getElementById("about-globe");
 
-📊 **AI Whisperer:** Transforming raw data into meaningful models.
+  if (canvas) {
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+    let width = 0;
+    let phi = 0.35;
+    let globe;
+    let frame;
 
-👨🏻‍🏫 **Knowledge Sharer:** Giving workshops and courses on cool methods.
+    const markers = [
+      { location: [31.52, 74.36], size: 0.04 },
+      { location: [51.48, 11.97], size: 0.04 },
+      { location: [40.71, -74.01], size: 0.04 },
+      { location: [-36.85, 174.76], size: 0.04 },
+    ];
 
-## Glimpses into my work
+    const resize = () => {
+      width = canvas.offsetWidth;
+      canvas.width = width * 2;
+      canvas.height = width * 2;
+      globe?.update({ width: width * 2, height: width * 2 });
+    };
 
+    resize();
 
-**Segmenting tree crowns in multispectral imagery using deep learning.** 
+    globe = createGlobe(canvas, {
+      devicePixelRatio: 2,
+      width: width * 2,
+      height: width * 2,
+      phi,
+      theta: 0.28,
+      dark: 0,
+      diffuse: 1.25,
+      mapSamples: 16000,
+      mapBrightness: 5.8,
+      baseColor: [0.96, 0.99, 0.96],
+      markerColor: [0.76, 0.55, 0.18],
+      glowColor: [0.88, 0.96, 0.9],
+      markers,
+      opacity: 0.96,
+      scale: 1.04,
+    });
 
-![](images/trees.gif){.lightbox}
+    const animate = () => {
+      if (!reduceMotion.matches) {
+        phi += 0.0022;
+        globe.update({ phi });
+      }
+      frame = requestAnimationFrame(animate);
+    };
 
-**Foreceasting smog events using spatiotemporal deep learning**
+    animate();
+    window.addEventListener("resize", resize);
+    window.addEventListener("pagehide", () => {
+      cancelAnimationFrame(frame);
+      globe.destroy();
+    }, { once: true });
+  }
+</script>
+```
 
-![](images/smogseer.gif){.lightbox}
+## Glimpses Into My Work
 
-**Secure webcam eyetracking with edge machine learning to track user attention and engagement in digital content.**
+```{=html}
+<section class="work-grid">
+  <article class="work-card">
+    <img src="images/trees.gif" alt="Tree crown segmentation result over aerial imagery">
+    <div>
+      <h3>Tree Crown Segmentation</h3>
+      <p>Segmenting individual tree crowns in multispectral imagery using deep learning.</p>
+    </div>
+  </article>
+  <article class="work-card">
+    <img src="images/smogseer.gif" alt="Animated smog forecasting map">
+    <div>
+      <h3>Smog Event Forecasting</h3>
+      <p>Forecasting smog events with spatiotemporal deep learning and satellite-derived aerosol data.</p>
+    </div>
+  </article>
+  <article class="work-card">
+    <img src="images/adsata.gif" alt="Webcam eye-tracking interface preview">
+    <div>
+      <h3>Secure Webcam Eye Tracking</h3>
+      <p>Using edge machine learning to estimate attention and engagement in digital content.</p>
+    </div>
+  </article>
+  <article class="work-card">
+    <img src="images/treesim.gif" alt="Animated tree dynamics simulation">
+    <div>
+      <h3>Tree Dynamics Simulation</h3>
+      <p>Simulating tree dynamics with visual, interactive models built in Processing.</p>
+    </div>
+  </article>
+</section>
+```
 
-![](images/adsata.gif){.lightbox}
+## In The News
 
-**Simulating tree dynamics using processing**
+```{=html}
+<ul class="news-list">
+  <li>
+    <a href="https://issuu.com/aspekt-magazin/docs/aspekt_09_2021_es/s/13541949">Die "Blickfänger" von der Saale</a>
+    <span>Aspekt Magazin, 15.09.2021</span>
+  </li>
+  <li>
+    <a href="https://www.mz.de/lokal/halle-saale/eyetracking-fur-bessere-datenanalyse-hallesches-startup-in-den-startlochern-1708417">Eyetracking für bessere Datenanalyse: Hallesches Startup in den Startlöchern</a>
+    <span>Mitteldeutsche Zeitung, 19.08.2021</span>
+  </li>
+  <li>
+    <a href="https://startup-mitteldeutschland.de/adsata-eyetracking-per-webcam/">Eyetracking per Webcam: Adsata hat Erfolg im Blick</a>
+    <span>Startup-Mitteldeutschland, 16.02.2021</span>
+  </li>
+  <li>
+    <a href="https://www.investieren-in-sachsen-anhalt.de/report-invest/schau-mir-in-die-augen">Schau mir in die Augen</a>
+    <span>Investitions- und Marketinggesellschaft Sachsen-Anhalt, 28.07.2021</span>
+  </li>
+</ul>
+```
 
-![](images/treesim.gif){.lightbox}
+## Let's Collaborate
 
-## In the news
-
-- ["Die 'Blickfänger' von der Saale](https://issuu.com/aspekt-magazin/docs/aspekt_09_2021_es/s/13541949), Aspekt Magazin, 15.09.2021.
-  
-- [“Eyetracking für bessere Datenanalyse: Hallesches Startup in den Startlöchern”](https://www.mz.de/lokal/halle-saale/eyetracking-fur-bessere-datenanalyse-hallesches-startup-in-den-startlochern-1708417) - Mitteldeutsche Zeitung, 19.08.2021.
-
-
-- [“Eyetracking per Webcam: Adsata hat Erfolg im Blick”](https://startup-mitteldeutschland.de/adsata-eyetracking-per-webcam/)-  Startup-Mitteldeutschland, 16.02.2021.
-
-
-- [“Schau mir in die Augen”](https://www.investieren-in-sachsen-anhalt.de/report-invest/schau-mir-in-die-augen) - Investitions- und Marketinggesellschaft Sachsen-Anhalt, 28.07.2021.
-
-
-
-## Let's Collaborate!
-
-🌱 Open to collaborations on exciting projects at the intersection of earth systems, physics, and technology.
-
-💬 Hit the mail button in the menu and feel free to reach out for discussions, brainstorming, or simply a virtual chat.
-
- 
+```{=html}
+<section class="collab-panel">
+  <p>
+    Open to collaborations at the intersection of earth systems, physics, and technology.
+    Send a note if you want to discuss research software, AI systems, remote sensing, or digital twins.
+  </p>
+  <a class="button button-primary" href="mailto:thisistaimur@icloud.com">Start a conversation</a>
+</section>
+```

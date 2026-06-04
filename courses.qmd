@@ -1,10 +1,38 @@
 ---
+title: "Teaching"
+description: "Teaching activities, workshops, and course materials by Taimur Khan on data science, deep learning, Python, R, web development, and digital twins."
 format: html
 ---
 
 # Past Teaching Activities
 
 ```{=html}
+
+<div class="card bg-light">
+  <div class="card-body">
+    <h2 class="card-title">Carpentries Workshop: Kickstarting Deeplearning </h2>
+    <h6 class="card-subtitle mb-2 text-muted">09.2026 @ Helmholtz Information & Data Science Academy (HIDA) </h6>
+    <hr/>
+    <a href="" class="card-link">Website</a>
+    <a href="" class="card-link">Code</a>
+  </div>
+</div>
+<br/>
+
+
+
+<div class="card bg-light">
+  <div class="card-body">
+    <h2 class="card-title">Carpentries Workshop: Data Processing with Pandas and Visualization with Matplotlib </h2>
+    <h6 class="card-subtitle mb-2 text-muted">06.2026 @ Helmholtz Information & Data Science Academy (HIDA) </h6>
+    <hr/>
+    <a href="https://events.hifis.net/event/3375/" class="card-link">Website</a>
+    <a href="https://hifis.net/workshop-materials/python-pandas-and-matplotlib/index.html" class="card-link">Code</a>
+  </div>
+</div>
+<br/>
+
+
 <div class="card bg-light">
   <div class="card-body">
     <h2 class="card-title">Workshop: Designing Data-Driven Digtal Twin Systems in Ecology</h2>
@@ -62,4 +90,3 @@ format: html
 <br/>
 
 ```
-

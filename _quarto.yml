@@ -6,7 +6,10 @@ project:
 
 website:
   title: "Taimur Khan"
+  site-url: "https://thisistaimur.github.io"
+  description: "Deep Learning | Remote Sensing | HPC | Computer Vision"
   open-graph: true
+  twitter-card: true
   navbar:
     left:
       - href: index.qmd
@@ -16,19 +19,21 @@ website:
       - href: courses.qmd
         text: Teaching
       - href: publications.qmd
-        text: Publications
+        text: Research
       - href: https://thisistaimur.me/lab
         text: Lab  
     right:
       - href: "mailto:thisistaimur@icloud.com"
-        text: 📮
+        text: Email
 
   body-footer: |
-    © 2022 - 2025 Taimur Khan - All Rights Reserved.
+    © 2022 - 2026 Taimur Khan - All Rights Reserved.
 
 format:
   html:
     theme:
       light: morph
     css: styles.css
+    include-in-header: includes/seo.html
+    canonical-url: true
     toc: true

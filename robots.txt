@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
+
 Sitemap: https://thisistaimur.github.io/sitemap.xml
