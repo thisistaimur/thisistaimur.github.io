@@ -263,16 +263,8 @@ ul.task-list li input[type="checkbox"] {
             <strong id="globe-focus">Global view</strong>
           </div>
           <div class="scroll-progress" aria-label="About section progress">
-            <span id="scroll-progress-count">1 / 7</span>
-            <div class="scroll-progress__dots" aria-hidden="true">
-              <i class="is-active"></i>
-              <i></i>
-              <i></i>
-              <i></i>
-              <i></i>
-              <i></i>
-              <i></i>
-            </div>
+            <span id="scroll-progress-count">1 / 6</span>
+            <div class="scroll-progress__dots" id="scroll-progress-dots"></div>
           </div>
         </div>
       </div>
@@ -335,7 +327,8 @@ ul.task-list li input[type="checkbox"] {
   const panels = [...document.querySelectorAll(".earth-panel")];
   const focusLabel = document.getElementById("globe-focus");
   const progressCount = document.getElementById("scroll-progress-count");
-  const progressDots = [...document.querySelectorAll(".scroll-progress__dots i")];
+  const progressDotsContainer = document.getElementById("scroll-progress-dots");
+  let progressDots = [];
 
   if (canvas) {
     const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
@@ -347,6 +340,18 @@ ul.task-list li input[type="checkbox"] {
     let globe;
     let frame;
     let activeIndex = 0;
+
+    if (progressDotsContainer) {
+      progressDotsContainer.innerHTML = "";
+      progressDots = panels.map((panel, index) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.setAttribute("aria-label", `Show ${panel.querySelector("span")?.textContent || `item ${index + 1}`}`);
+        button.addEventListener("click", () => scrollToPanel(index));
+        progressDotsContainer.appendChild(button);
+        return button;
+      });
+    }
 
     const markers = [
       { location: [31.52, 74.36], size: 0.04 },
@@ -385,7 +390,10 @@ ul.task-list li input[type="checkbox"] {
     const setActivePanel = (panel) => {
       panels.forEach((item) => item.classList.toggle("is-active", item === panel));
       const panelIndex = panels.indexOf(panel);
-      progressDots.forEach((item, index) => item.classList.toggle("is-active", index === panelIndex));
+      progressDots.forEach((item, index) => {
+        item.classList.toggle("is-active", index === panelIndex);
+        item.toggleAttribute("aria-current", index === panelIndex);
+      });
       if (progressCount) {
         progressCount.textContent = `${panelIndex + 1} / ${panels.length}`;
       }
@@ -399,6 +407,20 @@ ul.task-list li input[type="checkbox"] {
         theta = targetTheta;
         globe.update({ phi, theta });
       }
+    };
+
+    const scrollToPanel = (index) => {
+      if (!section || panels.length < 2) return;
+
+      const scrollable = Math.max(1, section.offsetHeight - window.innerHeight);
+      const targetProgress = panels.length === 1 ? 0 : index / (panels.length - 1);
+      const rawProgress = 0.06 + targetProgress * 0.88;
+      const targetTop = window.scrollY + section.getBoundingClientRect().top + rawProgress * scrollable;
+
+      window.scrollTo({
+        top: targetTop,
+        behavior: reduceMotion.matches ? "auto" : "smooth",
+      });
     };
 
     const updateFromScroll = () => {
