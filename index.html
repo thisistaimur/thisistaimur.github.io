@@ -113,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
   "@id": "https://thisistaimur.github.io/#website",
   "name": "Taimur Khan",
   "url": "https://thisistaimur.github.io/",
-  "description": "Personal website of Taimur Khan, focused on Earth computer vision, remote sensing, AI, high-performance computing, and ecological digital twins.",
+  "description": "Deep Learning | Remote Sensing | HPC | Computer Vision",
   "inLanguage": "en"
 }
 </script>
@@ -219,7 +219,7 @@ ul.task-list li input[type="checkbox"] {
     <h1>Taimur Khan</h1>
     <p class="hero-lede">
       I build AI, remote sensing, and high-performance computing systems that help researchers model,
-      monitor, and predict environmental change.
+      monitor, and predict environmental change. Currently a data scientist at Helmholtz-UFZ.
     </p>
     <div class="hero-tags" aria-label="Focus areas">
       <span>Computer Vision</span>
@@ -252,69 +252,101 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="about-me" class="level2">
 <h2 class="anchored" data-anchor-id="about-me">About Me</h2>
-<section class="about-feature">
-  <div class="about-globe-panel" aria-hidden="true">
-    <canvas id="about-globe" class="about-globe" width="720" height="720"></canvas>
-  </div>
-  <div class="about-feature__copy">
-    <span>My vision</span>
-    <h3 class="anchored">The zeitgeist of environmental intelligence</h3>
-    <p>
-      For much of human history, continuous Earth monitoring was closer to a scientific dream than
-      an everyday instrument: the hope of watching forests, cities, oceans, and atmosphere change
-      in real time. Remarkably, this arrived just as AI became practical enough to help read the
-      flood of images and measurements it produces.
-    </p>
-    <p>
-      The work now is to make this abundance intelligible. I build AI and remote sensing tools that
-      help researchers read environmental change carefully, from tree crown segmentation and smog
-      forecasting to biodiversity foundation models.
-    </p>
-  </div>
-</section>
+<section class="earth-scroll" id="about-earth">
+  <div class="earth-scroll__stage">
+    <div class="earth-scroll__visual" aria-hidden="true">
+      <div class="about-globe-panel">
+        <canvas id="about-globe" class="about-globe" width="720" height="720"></canvas>
+        <div class="globe-status">
+          <div class="globe-caption">
+            <span>Now showing</span>
+            <strong id="globe-focus">Global view</strong>
+          </div>
+          <div class="scroll-progress" aria-label="About section progress">
+            <span id="scroll-progress-count">1 / 7</span>
+            <div class="scroll-progress__dots" aria-hidden="true">
+              <i class="is-active"></i>
+              <i></i>
+              <i></i>
+              <i></i>
+              <i></i>
+              <i></i>
+              <i></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<section class="about-grid">
-  <article>
-    <span>Academic background</span>
-    <p>
-      Earth System Data Science and Remote Sensing (M.Sc.) at
-      <a href="https://www.uni-leipzig.de">University of Leipzig</a>, with Geosciences and Physics
-      (B.A.) from <a href="https://www.skidmore.edu">Skidmore College</a>.
-    </p>
-  </article>
-  <article>
-    <span>Research</span>
-    <p>Unraveling Earth's systems through numerical models, statistical methods, and machine learning.</p>
-  </article>
-  <article>
-    <span>Engineering</span>
-    <p>Crafting robust cloud systems and research software for data-heavy scientific workflows.</p>
-  </article>
-  <article>
-    <span>Interfaces</span>
-    <p>Translating complex computations into clear web tools, dashboards, and decision-support systems.</p>
-  </article>
-  <article>
-    <span>AI systems</span>
-    <p>Transforming raw environmental data into models for representation learning, segmentation, forecasting, and analysis.</p>
-  </article>
-  <article>
-    <span>Teaching</span>
-    <p>Sharing practical methods through workshops, courses, and collaborative technical mentoring.</p>
-  </article>
+    <div class="earth-scroll__panels">
+      <article class="earth-panel is-active" data-phi="0.35" data-theta="0.28" data-focus="Global view">
+        <span>My vision</span>
+        <h5 class="anchored">The zeitgeist of environmental intelligence</h5>
+        <p>
+          For much of human history, continuous Earth monitoring was closer to a scientific dream:
+          the hope of watching forests, cities, oceans, and atmosphere change in real time. That
+          moment arrived just as AI became practical enough to help read the flood of images and
+          measurements it produces.
+        </p>
+        <p>
+          The work now is to make this abundance intelligible. I build AI and remote sensing tools
+          that help researchers read environmental change carefully, from tree crown segmentation to
+          smog forecasting and biodiversity foundation models.
+        </p>
+      </article>
+
+      <article class="earth-panel" data-phi="-1.9" data-theta="0.2" data-focus="New York / Halle">
+        <span>Academic background</span>
+        <p>
+          Earth System Data Science and Remote Sensing (M.Sc.) at
+          <a href="https://www.uni-leipzig.de">University of Leipzig</a>, with Geosciences and Physics
+          (B.A.) from <a href="https://www.skidmore.edu">Skidmore College</a>.
+        </p>
+      </article>
+
+      <article class="earth-panel" data-phi="-0.7" data-theta="0.24" data-focus="Halle, Germany">
+        <span>Research</span>
+        <p>Unraveling Earth's systems through numerical models, statistical methods, and machine learning. Working as a data scientist at the <a href="https://www.ufz.de/index.php?en=49404">Helmholtz Centre for Environmental Research - UFZ</a> in Germany.</p>
+      </article>
+
+      <article class="earth-panel" data-phi="0.82" data-theta="0.2" data-focus="Lahore, Pakistan">
+        <span>Startups and Engineering</span>
+        <p>Founder and Lead Engineer at <a href="https://www.adsata.com">Adsata</a>, developing an edge-ML platform for webcam-based webcam eyetracking.</p>
+      </article>
+
+      <article class="earth-panel" data-phi="-1.65" data-theta="0.18" data-focus="New York, USA">
+        <span>Open Source and AI</span>
+        <p>Developed several open-source libraries for remote sensing and environmental data analysis, like <a href="https://deeptrees.de">DeepTrees</a>, <a href="https://github.com/Clim-Hub">ClimHub</a>, <a href="https://huggingface.co/spaces/thisistaimur/fskd-mitb2-demo">FSKD</a>, <a href="https://huggingface.co/kernels/thisistaimur/tiledattention">TiledAttention</a>, <a href="https://khant.pages.ufz.de/opendap/intro.html">OPeNDAP Data Catalogue</a>, to name a few.</p>
+      </article>
+
+      <article class="earth-panel" data-phi="-0.72" data-theta="0.24" data-focus="Halle, Germany">
+        <span>Teaching</span>
+        <p>Sharing practical methods through workshops, courses, and collaborative technical mentoring. Some of these can be found on the <a href="courses.html">teaching page</a></p>
+      </article>
+    </div>
+  </div>
 </section>
 
 <script type="module">
   import createGlobe from "https://cdn.jsdelivr.net/npm/cobe@2.0.1/+esm";
 
   const canvas = document.getElementById("about-globe");
+  const section = document.getElementById("about-earth");
+  const panels = [...document.querySelectorAll(".earth-panel")];
+  const focusLabel = document.getElementById("globe-focus");
+  const progressCount = document.getElementById("scroll-progress-count");
+  const progressDots = [...document.querySelectorAll(".scroll-progress__dots i")];
 
   if (canvas) {
     const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
     let width = 0;
     let phi = 0.35;
+    let theta = 0.28;
+    let targetPhi = phi;
+    let targetTheta = theta;
     let globe;
     let frame;
+    let activeIndex = 0;
 
     const markers = [
       { location: [31.52, 74.36], size: 0.04 },
@@ -337,7 +369,7 @@ ul.task-list li input[type="checkbox"] {
       width: width * 2,
       height: width * 2,
       phi,
-      theta: 0.28,
+      theta,
       dark: 0,
       diffuse: 1.25,
       mapSamples: 16000,
@@ -350,10 +382,49 @@ ul.task-list li input[type="checkbox"] {
       scale: 1.04,
     });
 
+    const setActivePanel = (panel) => {
+      panels.forEach((item) => item.classList.toggle("is-active", item === panel));
+      const panelIndex = panels.indexOf(panel);
+      progressDots.forEach((item, index) => item.classList.toggle("is-active", index === panelIndex));
+      if (progressCount) {
+        progressCount.textContent = `${panelIndex + 1} / ${panels.length}`;
+      }
+      targetPhi = Number(panel.dataset.phi || targetPhi);
+      targetTheta = Number(panel.dataset.theta || targetTheta);
+      if (focusLabel && panel.dataset.focus) {
+        focusLabel.textContent = panel.dataset.focus;
+      }
+      if (reduceMotion.matches) {
+        phi = targetPhi;
+        theta = targetTheta;
+        globe.update({ phi, theta });
+      }
+    };
+
+    const updateFromScroll = () => {
+      if (!section || panels.length === 0) return;
+
+      const rect = section.getBoundingClientRect();
+      const scrollable = Math.max(1, rect.height - window.innerHeight);
+      const rawProgress = Math.min(1, Math.max(0, -rect.top / scrollable));
+      const easedProgress = Math.min(1, Math.max(0, (rawProgress - 0.06) / 0.88));
+      const index = Math.min(panels.length - 1, Math.floor(easedProgress * panels.length));
+
+      if (index !== activeIndex) {
+        activeIndex = index;
+        setActivePanel(panels[activeIndex]);
+      }
+    };
+
+    setActivePanel(panels[0]);
+    updateFromScroll();
+    window.addEventListener("scroll", updateFromScroll, { passive: true });
+
     const animate = () => {
       if (!reduceMotion.matches) {
-        phi += 0.0022;
-        globe.update({ phi });
+        phi += (targetPhi - phi) * 0.06;
+        theta += (targetTheta - theta) * 0.06;
+        globe.update({ phi, theta });
       }
       frame = requestAnimationFrame(animate);
     };
@@ -362,6 +433,7 @@ ul.task-list li input[type="checkbox"] {
     window.addEventListener("resize", resize);
     window.addEventListener("pagehide", () => {
       cancelAnimationFrame(frame);
+      window.removeEventListener("scroll", updateFromScroll);
       globe.destroy();
     }, { once: true });
   }
