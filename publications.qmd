@@ -12,13 +12,23 @@ format: html
     biodiversity modelling, research software, and environmental data science.
   </p>
   <div class="pub-stats" aria-label="Publication summary">
-    <span><strong>15</strong> entries</span>
+    <span><strong>17</strong> entries</span>
     <span><strong>2026-2017</strong> timeline</span>
     <span><strong>Earth AI</strong> focus</span>
   </div>
 </section>
 
 <section class="pub-list" aria-label="Research publications">
+  <article class="pub-card">
+    <span class="pub-year">2026 </span>
+    <p><strong>Khan, T.</strong> (2026). PhenoEmbed: Self-Supervised Multispectral UAV Time-Series Embeddings for Individual Tree Crown Phenology. <em>Resilience and AI Workshop Proceedings at the INFORMATIK Festival</em> (archival track). arXiv:2607.10231. DOI: <a href="https://doi.org/10.48550/arXiv.2607.10231">https://doi.org/10.48550/arXiv.2607.10231</a></p>
+  </article>
+
+  <article class="pub-card">
+    <span class="pub-year">2026</span>
+    <p><strong>Khan, T.</strong> (2026): HeideBench: A Multispectral UAV Time-Series Benchmark for Forest Crown Phenology in Dölauer Heide [dataset]. PANGAEA, <a href="https://doi.pangaea.de/10.1594/PANGAEA.993969">https://doi.pangaea.de/10.1594/PANGAEA.993969</a> (DOI registration in progress)</p>
+  </article>
+
   <article class="pub-card">
     <span class="pub-year">2026</span>
     <p><strong>Khan, T.</strong>, Feilhauer, H., &amp; Zafar, M. J. (2026). FSKD: Monocular Forest Structure Inference via LiDAR-to-RGBI Knowledge Distillation. arXiv preprint arXiv:2604.01766. DOI <a href="https://doi.org/10.48550/arXiv.2604.01766">https://doi.org/10.48550/arXiv.2604.01766</a></p>
@@ -30,8 +40,8 @@ format: html
   </article>
 
   <article class="pub-card">
-    <span class="pub-year">2026 - To be published @ ISC 2026</span>
-    <p><strong>Khan, T.</strong> (2026). TiledAttention: a CUDA Tile SDPA Kernel for PyTorch. arXiv preprint arXiv:2603.01960. DOI: <a href="https://doi.org/10.48550/arXiv.2603.01960">https://doi.org/10.48550/arXiv.2603.01960</a></p>
+    <span class="pub-year">2026</span>
+    <p><strong>Khan, T.</strong> (2026). TiledAttention: a CUDA Tile SDPA Kernel for PyTorch. In <em>AI on HPC Workshop Proceedings at ISC 2026</em>. arXiv:2603.01960. DOI: <a href="https://doi.org/10.48550/arXiv.2603.01960">https://doi.org/10.48550/arXiv.2603.01960</a></p>
   </article>
 
   <article class="pub-card">
@@ -40,8 +50,8 @@ format: html
   </article>
 
   <article class="pub-card">
-    <span class="pub-year">2025</span>
-    <p><strong>Khan, T.</strong>, Krebs, J., Gupta, S. K., Renkel, J., Arnold, C., Nölke, N., … Grimm, V. (2025). Validation Challenges in Large-Scale Tree Crown Segmentations from Remote Sensing Imagery Using Deep Learning: A Case Study in Germany. In Proceedings of The 29th International Conference on Theory and Practice of Digital Libraries, TPDL 2025 Workshops, Tampere, Finland, September 23-26, 2025, Lecture Notes in Computer Science (LNCS) (Vol. XXX, pp. xxx-xxx). Springer. DOI: <a href="https://doi.org/10.1007/978-3-032-06136-2_30">https://doi.org/10.1007/978-3-032-06136-2_30</a></p>
+    <span class="pub-year">2026</span>
+    <p><strong>Khan, T.</strong>, Krebs, J., Gupta, S. K., Renkel, J., Arnold, C., & Nölke, N. (2025, September). Validation Challenges in Large-Scale Tree Crown Segmentations from Remote Sensing Imagery Using Deep Learning: A Case Study in Germany. In International Conference on Theory and Practice of Digital Libraries (pp. 311-323). Cham: Springer Nature Switzerland. DOI: <a href="https://doi.org/10.1007/978-3-032-06136-2_30">https://doi.org/10.1007/978-3-032-06136-2_30</a></p>
   </article>
 
   <article class="pub-card">
