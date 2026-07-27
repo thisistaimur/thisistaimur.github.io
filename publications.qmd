@@ -41,7 +41,7 @@ format: html
 
   <article class="pub-card">
     <span class="pub-year">2026</span>
-    <p><strong>Khan, T.</strong> (2026). TiledAttention: a CUDA Tile SDPA Kernel for PyTorch. In <em>AI on HPC Workshop Proceedings at ISC 2026</em>. arXiv:2603.01960. DOI: <a href="https://doi.org/10.48550/arXiv.2603.01960">https://doi.org/10.48550/arXiv.2603.01960</a></p>
+    <p><strong>Khan, T.</strong> (2026). TiledAttention: a CUDA Tile SDPA Kernel for PyTorch. In <em>AI on HPC Workshop Proceedings at ISC 2026</em> (archival track). arXiv:2603.01960. DOI: <a href="https://doi.org/10.48550/arXiv.2603.01960">https://doi.org/10.48550/arXiv.2603.01960</a></p>
   </article>
 
   <article class="pub-card">
